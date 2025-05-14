@@ -48,16 +48,15 @@ Welcome to my GitHub profile! I'm **Reza Ahmad Ramadhan**, and I love building c
 
 ## 🏆 Achievements
 
-- 🏅 **[Award/Certification Name](#)** from [Institution].
-- 🎉 **[Notable Achievement, e.g., Top 1% in Coding Competition](#)**.
+
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/username)
-- **Website**: [Your Website](https://yourwebsite.com)
+- **Email**: [dhronzae@gmail.com](mailto:dhronzae@gmail.com)
+- **LinkedIn**: [Reza Ahmad Ramadhan](https://www.linkedin.com/in/rezaahmadramadhan)
+- **Website**: [Dhronz Space](https://dhronz.space.com)
 
 ---
 
