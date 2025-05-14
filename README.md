@@ -79,4 +79,4 @@ Welcome to my GitHub profile! I'm **Reza Ahmad Ramadhan**, and I love building c
 
 ---
 
-Thanks for visiting my profile! 😊 Feel free to look around and [connect with me](https://www.linkedin.com/in/username)!
+Thanks for visiting my profile! 😊 Feel free to look around and [connect with me](https://www.linkedin.com/in/rezaahmadramadhan)!
