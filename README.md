@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm **Reza Ahmad Ramadhan**, and I love building c
 - 🌱 I’m currently learning **[GraphQL, MongoDB, React Native, etc.]**.
 - 💬 Ask me about **[Web Development, Fulstack Development, IoT, etc.]**.
 - 📫 Reach me at **[dhronzae@gmail.com]**.
-- ⚡ Fun fact: **[I'm a night owl 🦉]**.
+- ⚡ Fun fact: **I'm a night owl 🦉**.
 
 ---
 
