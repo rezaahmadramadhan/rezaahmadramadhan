@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm **Reza Ahmad Ramadhan**, and I love building creative and impactful projects. 🌟
 
 [![WakaTime](https://wakatime.com/badge/user/caa81b4a-3275-4dc2-ab32-9487c2fdd681.svg)](https://wakatime.com/@dhronz)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezaahmadramadhan)
 [![GitHub Followers](https://img.shields.io/github/followers/rezaahmadramadhan?label=Follow%20Me&style=social)](https://github.com/rezaahmadramadhan)
 
 ---
