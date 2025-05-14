@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm **Reza Ahmad Ramadhan**, and I love building c
 ## 🌟 About Me
 
 - 🔭 I’m currently bootcamp at **[Hacktiv8 Indonesia](https://www.hacktiv8.com/)**.
-- 🌱 I’m currently learning **[Your Learning Topics, e.g., React, Node.js, AI, etc.]**.
-- 💬 Ask me about **[Your Expertise, e.g., Web Development, Machine Learning, etc.]**.
-- 📫 Reach me at **[Your Email Address]**.
-- ⚡ Fun fact: **[Your Fun Fact, e.g., I love coffee ☕ or I'm a night owl 🦉]**.
+- 🌱 I’m currently learning **[GraphQL, MongoDB, React Native, etc.]**.
+- 💬 Ask me about **[Web Development, Fulstack Development, IoT, etc.]**.
+- 📫 Reach me at **[dhronzae@gmail.com]**.
+- ⚡ Fun fact: **[I'm a night owl 🦉]**.
 
 ---
 
